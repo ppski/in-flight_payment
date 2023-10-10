@@ -1,0 +1,15 @@
+# ios
+.DS_Store
+
+# python
+*.pyc
+.pytest_cache/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.coverage
+
+# package files
+build/
+reports/*
+*.egg-info
